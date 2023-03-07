@@ -1,1 +1,1 @@
-# JS-study
+# Javascript chrome clone study
